@@ -49,3 +49,23 @@
 }
 
 /*Main section */
+
+.first-section{
+    display: flex;
+    height: 700px;
+    border: 3px solid white;
+}
+.main-pic{
+    margin-right: 20%;
+    margin-top: 12%;
+}
+.first-section-info{
+    height: 200px;
+    width: 300px;
+    margin-top: 15%;
+    /* margin-top: 400px; */
+}
+.main-list{
+    margin-top: 20px;
+    
+}
